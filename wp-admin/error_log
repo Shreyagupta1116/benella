@@ -1,0 +1,19 @@
+[20-May-2020 10:05:30 UTC] WordPress database error Unknown column 'benella_' in 'field list' for query SELECT benella_
+[20-May-2020 10:14:55 UTC] PHP Warning:  sprintf(): Too few arguments in /home/impil2ru/public_html/benella.in/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[20-May-2020 10:14:57 UTC] PHP Warning:  sprintf(): Too few arguments in /home/impil2ru/public_html/benella.in/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[20-May-2020 10:15:00 UTC] PHP Warning:  sprintf(): Too few arguments in /home/impil2ru/public_html/benella.in/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[20-May-2020 10:15:04 UTC] PHP Warning:  sprintf(): Too few arguments in /home/impil2ru/public_html/benella.in/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[20-May-2020 10:15:08 UTC] PHP Warning:  sprintf(): Too few arguments in /home/impil2ru/public_html/benella.in/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[20-May-2020 10:15:13 UTC] PHP Warning:  sprintf(): Too few arguments in /home/impil2ru/public_html/benella.in/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[20-May-2020 10:15:16 UTC] PHP Warning:  sprintf(): Too few arguments in /home/impil2ru/public_html/benella.in/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[20-May-2020 10:15:22 UTC] PHP Warning:  sprintf(): Too few arguments in /home/impil2ru/public_html/benella.in/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[20-May-2020 10:15:35 UTC] PHP Warning:  sprintf(): Too few arguments in /home/impil2ru/public_html/benella.in/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[20-May-2020 10:15:41 UTC] PHP Warning:  sprintf(): Too few arguments in /home/impil2ru/public_html/benella.in/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[22-May-2020 13:33:45 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1 for query 1 made by activate_plugin, do_action('activate_ap-mega-menu/ap-mega-menu.php'), WP_Hook->do_action, WP_Hook->apply_filters, APMM_Class->apmm_pro_activation, include('/plugins/ap-mega-menu/inc/backend/activation.php')
+[29-May-2020 05:11:20 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-May-2020 05:11:46 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-May-2020 05:13:52 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-May-2020 05:18:35 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-May-2020 05:22:08 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-May-2020 05:25:16 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-May-2020 05:31:28 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
